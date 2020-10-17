@@ -5,9 +5,12 @@
 小程序本身很简单，具体原理就是个跳转。可以根据同名公众号里的文章实现。
 
 介于加我的人咨询的比较多，啥奇怪的，问题都有，所以：
+
 1、参考公众号里的文章，https://mp.weixin.qq.com/s/JHDWqBvntD0-p-dXEntSQQ
+
 2、如果对具体的某个链接获取有疑惑请加知识星球，1对1，回答任何问题
 
+ ![img](https://leijun-common.oss-cn-shenzhen.aliyuncs.com/zhishixingqiu.png)
 
 3、实现不行，可以700全套源码，额外200包安装上线。
 
