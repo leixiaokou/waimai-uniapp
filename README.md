@@ -8,8 +8,6 @@
 
 如果对具体的某个链接获取有疑惑请加知识星球，1对1，回答任何问题
 
-https://wx.zsxq.com/mweb/views/joingroup/join_group.html?group_id=15284158554252&secret=251z2bg73vtwsmc257p37s55n0qwznur&user_id=15455488818122&share_from=ShareToWechat&keyword=2ZVV3vf 
-
 实现不行，可以700全套源码，200包安装上线。
 
 ##### 采用手动后台管理模式来显示优惠券
