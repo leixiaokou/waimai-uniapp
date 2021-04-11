@@ -35,7 +35,7 @@ Vue.prototype.raiseImage="赞赏码地址"
 
 ##### 线上demo
 
-《吃喝优惠券》 ![img](https://leijun-common.oss-cn-shenzhen.aliyuncs.com/mini-chihe2.jpeg)
+
 
 ##### 联系作者
 
